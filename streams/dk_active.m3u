@@ -1,0 +1,12 @@
+#EXTINF:-1 tvg-id="BloombergTV.us",Bloomberg TV US (1080p)
+https://bloomberg-bloomberg-1-dk.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="DRTV.dk",DRTV (1080p)
+https://drlivedrtvahls.akamaized.net/hls/live/2113613/drlivedrtva/master.m3u8
+#EXTINF:-1 tvg-id="TVfromtheDanishParliament.dk",Folketinget (1080p) [Not 24/7]
+https://cdnapi.kaltura.com/p/2158211/sp/327418300/playManifest/entryId/1_24gfa7qq/protocol/https/format/applehttp/a.m3u8
+#EXTINF:-1 tvg-id="KanalHovedstaden.dk",Kanal Hovedstaden (720p) [Not 24/7]
+http://khkbh.dk:8080/hls/livestream/index.m3u8
+#EXTINF:-1 tvg-id="TV2Bornholm.dk",TV2/Bornholm (1080p) [Not 24/7]
+https://cdn-akamai-live.tv2bornholm.dk/stream/live/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMarineret.dk",TVMarineret (1080p)
+http://sdream.info:8080/hls/livestream/index.m3u8

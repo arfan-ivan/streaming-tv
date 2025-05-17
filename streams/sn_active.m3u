@@ -1,0 +1,32 @@
+#EXTINF:-1 tvg-id="A2iMusic.sn",A2i Music (720p) [Not 24/7]
+https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="A2iReligion.sn",A2i Religion (720p) [Not 24/7]
+https://stream.sen-gt.com/A2iReligion/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="AmaniTV.sn",Amani TV (1080p) [Not 24/7]
+https://goccn.cloud/hls/amanitv/index.m3u8
+#EXTINF:-1 tvg-id="ChabibaTV.sn",Chabiba TV (360p) [Not 24/7]
+https://endour.net/hls/RUgLAPCbPdF5oPSTX2Hvl/index.m3u8
+#EXTINF:-1 tvg-id="IMTV.sn",Islam TV Sénégal (720p)
+https://tv.imediasn.com/hls/live.m3u8
+#EXTINF:-1 tvg-id="LougaTV.sn",Louga TV (480p)
+https://stream.sen-gt.com/Mbacke/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="MourideTV.sn",Mouride TV (720p)
+http://51.81.109.113:1935/Livemouridetv/mouridetv/playlist.m3u8
+#EXTINF:-1 tvg-id="RTS1.sn",RTS 1 (720p)
+http://69.64.57.208/rts1/playlist.m3u8
+#EXTINF:-1 tvg-id="RTS2.sn",RTS 2 (720p)
+http://69.64.57.208/rts2/playlist.m3u8
+#EXTINF:-1 tvg-id="SenTV.sn",Sen TV (360p)
+http://69.64.57.208/sentv/playlist.m3u8
+#EXTINF:-1 tvg-id="SenJeunesTV.sn",SenJeunes TV (480p) [Not 24/7]
+https://stream.sen-gt.com/senjeunestv/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="TempoAfricTV.us",Tempo Afric TV (720p)
+https://streamspace.live/hls/tempoafrictv/livestream.m3u8
+#EXTINF:-1 tvg-id="TFM.sn",TFM (720p)
+http://69.64.57.208/tfm/playlist.m3u8
+#EXTINF:-1 tvg-id="WalfTV.sn",Walf TV (360p)
+http://69.64.57.208/walftv/playlist.m3u8
+#EXTINF:-1 tvg-id="YegleTV.sn",Yeglé TV (1080p)
+https://endour.net/hls/Yegle-tv/index.m3u8
+#EXTINF:-1 tvg-id="2STV.sn",2STV
+http://69.64.57.208/2stv/playlist.m3u8
